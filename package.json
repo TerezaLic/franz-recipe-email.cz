@@ -1,0 +1,12 @@
+{
+  "id": "email",
+  "name": "Seznam",
+  "version": "1.0.0",
+  "description": "Seznam",
+  "main": "index.js",
+  "author": "Tereza Lickova <lickova.tereza@email.cz>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://email.seznam.cz"
+ }
+}
